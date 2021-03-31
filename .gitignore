@@ -10,8 +10,6 @@ snli/.data
 snli/.vector_cache
 snli/results
 word_language_model/model.pt
-fast_neural_style/saved_models
-fast_neural_style/saved_models.zip
 
 # vi backups
 *~
